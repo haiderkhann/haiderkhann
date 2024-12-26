@@ -14,13 +14,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanxsyed&label=Profile%20views&color=0e75b6&style=flat" alt="amanxsyed" /> </p>
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on React & JS
 
-- 🌱 I’m currently learning **React & Django**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **My FInal Year Project**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at [()]
   
 - 📫 Reach out to me 
 
